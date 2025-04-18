@@ -1,0 +1,10 @@
+body {
+    background: blue;
+}
+
+.myDiv {
+    width: 400px;
+    background: rgb(182, 149, 149);
+    margin: 0 auto;
+    padding: 1px 0px 1px 0px;
+}
